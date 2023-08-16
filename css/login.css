@@ -18,10 +18,9 @@ body{background-image: url('../img/fondo2.png') }
     height: auto;
   }
   
-  button, .formulario__boton{
+  button{
     background-color: rgb(252, 193, 84);
     border: solid 1px ;
-    border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   #cuadro {
@@ -37,4 +36,5 @@ body{background-image: url('../img/fondo2.png') }
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   }
 
- #formulario__usuario, #formulario__contraseña {margin: 10px; width: 90%}
+ #formulario__usuario, #formulario__contraseña {margin: 10px; width: 80%}
+ .formulario__boton {width: 80%; background-color: rgb(252, 193, 84); border: solid 1px }
