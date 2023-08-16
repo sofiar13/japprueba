@@ -1,4 +1,3 @@
-
 const user = document.getElementById("formulario__usuario");
 const pass = document.getElementById("formulario__contraseña");
 const aviso1 = document.getElementById("formulario__Aviso_user");

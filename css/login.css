@@ -5,6 +5,10 @@ body{background-image: url('../img/fondo2.png') }
     height: 80vh;
     
   }
+
+  #cuadro h3 {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
   
   .container {width: 100%;
     height: auto;
@@ -18,8 +22,10 @@ body{background-image: url('../img/fondo2.png') }
     background-color: rgb(252, 193, 84);
     border: solid 1px ;
     border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   #cuadro {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(211, 211, 211);
     border-radius: 10px;
     border: 2px solid #ccc;
